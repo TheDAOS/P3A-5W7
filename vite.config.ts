@@ -15,8 +15,8 @@ export default defineConfig({
         name: "2048 Puzzle Game",
         short_name: "2048",
         description: "A native-like 2048 game built with React and Vite",
-        theme_color: "#ffffff",
-        background_color: "#ffffff",
+        theme_color: "#fb923c", // bg-orange-400
+        background_color: "#fb923c", // bg-orange-400
         display: "standalone",
         scope: "/",
         start_url: "/",
