@@ -2,7 +2,6 @@
 
 /* Prevent scroll "bounce" / rubber-band in PWAs and modern browsers */
 html, body, #root {
-	background-color: #fb923c; /* text-orange-400 */
 	height: 100%;
 	overscroll-behavior: none; /* modern browsers */
 	-webkit-overflow-scrolling: auto; /* iOS fallback */
